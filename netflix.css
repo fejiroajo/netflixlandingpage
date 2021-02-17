@@ -1,0 +1,66 @@
+.main-header__brand img {
+    width: 150px;
+    padding-left: 30px;
+}
+
+.main-nav__item{
+    padding-left: 1180px;
+    margin-top: -45px;
+}
+
+.jumbotron{
+    height: 700px;
+    width: 100%s;
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(NG-en-20210118-popsignuptwoweeks-perspective_alpha_website_small.jpg);  
+    color:#ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content{
+    position: relative;
+    top: 150px;
+    text-align: center;
+}
+
+.important{
+    font-weight: bold;
+    font-size: 50px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.secondary-content{
+    font-size: 26px;
+}
+
+.another-content{
+    font-size: 18px;
+    width: 70%;
+    margin: 0 auto; 
+}
+
+#form{
+    margin-top: 160px;
+}
+
+.entry{
+    margin-left: 340px;
+    height: 57px;
+    width:31%;
+}
+
+.entry[value] {
+    font-size: 16px;
+    color: #8c8c8c;
+}
+
+.btn{
+    margin-left: -4px;
+    height: 57px;
+    font-size: 26px;
+    color: #ffffff;
+    border: none;
+    background-color: red;
+}
+
+
